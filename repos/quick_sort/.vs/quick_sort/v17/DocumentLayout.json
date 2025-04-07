@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faith\\source\\repos\\quick_sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A740767B-4C80-45E3-BC4B-76B2B6A8D501}|quick_sort\\quick_sort.vcxproj|C:\\Users\\faith\\source\\repos\\quick_sort\\quick_sort\\quicksort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A740767B-4C80-45E3-BC4B-76B2B6A8D501}|quick_sort\\quick_sort.vcxproj|solutionrelative:quick_sort\\quicksort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quicksort.cpp",
+              "DocumentMoniker": "C:\\Users\\faith\\source\\repos\\quick_sort\\quick_sort\\quicksort.cpp",
+              "RelativeDocumentMoniker": "quick_sort\\quicksort.cpp",
+              "ToolTip": "C:\\Users\\faith\\source\\repos\\quick_sort\\quick_sort\\quicksort.cpp",
+              "RelativeToolTip": "quick_sort\\quicksort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T07:54:19.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

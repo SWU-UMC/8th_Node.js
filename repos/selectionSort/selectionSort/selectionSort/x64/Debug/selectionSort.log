@@ -1,0 +1,3 @@
+﻿  selectionSort.cpp
+C:\Users\faith\source\repos\selectionSort\selectionSort\selectionSort.cpp(33,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  selectionSort.vcxproj -> C:\Users\faith\source\repos\selectionSort\selectionSort\x64\Debug\selectionSort.exe

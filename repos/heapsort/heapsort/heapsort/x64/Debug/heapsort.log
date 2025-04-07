@@ -1,0 +1,5 @@
+﻿  heap_sort.cpp
+C:\Users\faith\source\repos\heapsort\heapsort\heap_sort.cpp(35,3): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\faith\source\repos\heapsort\heapsort\heap_sort.cpp(19,31): warning C4101: 'root_data': unreferenced local variable
+C:\Users\faith\source\repos\heapsort\heapsort\heap_sort.cpp(53,3): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  heapsort.vcxproj -> C:\Users\faith\source\repos\heapsort\heapsort\x64\Debug\heapsort.exe
