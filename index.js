@@ -1,12 +1,20 @@
-const express = require("express");
+import dotenv from "dotenv";
+import express from "express";
+
+dotenv.config();
+
 const app = express();
-const port = 3000;
+const port = process.env.PORT;
+
+app.use(cors());                            // cors 방식 허용
+app.use(express.static('public'));          // 정적 파일 접근
+app.use(express.json());                    // request의 본문을 json으로 해석할 수 있도록 함 (JSON 형태의 요청 body를 파싱하기 위함)
+app.use(express.urlencoded({ extended: false })); // 단순 객체 문자열 형태로 본문 데이터 해석
 
 app.get("/", (req, res) => {
-  res.status(200);
-  res.send("학교가기싫어요오");
+  res.send("Hello World!");
 });
 
 app.listen(port, () => {
-  console.log(`${port}번 포트에서 서버 실행 중`);
+  console.log(`Example app listening on port ${3001}`);
 });
